@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Pregnancy Care",
+      "description": "Comprehensive prenatal care, including routine check-ups, ultrasounds, genetic counseling, and childbirth education classes.",
+      "price": "1200",
+      "duration": "9 months",
+      "specializations": [
+        "Obstetrics",
+        "Gynecology"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Childbirth",
+      "description": "Vaginal or cesarean delivery services, including labor and delivery, newborn care, and postpartum support.",
+      "price": "16000",
+      "duration": "1-2 days",
+      "specializations": [
+        "Obstetrics",
+        "Gynecology"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Dental Services",
+      "description": "General dentistry, including cleanings, fillings, extractions, and dental x-rays.",
+      "price": "19000",
+      "duration": "30-60 minutes per visit",
+      "specializations": [
+        "Dentistry"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Orthopedic Surgery",
+      "description": "Surgical procedures to treat injuries or conditions affecting bones, joints, muscles, and ligaments.",
+      "price": "40000",
+      "duration": "Varies depending on procedure",
+      "specializations": [
+        "Orthopedic Surgery"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Cardiac Care",
+      "description": "Diagnosis and treatment of heart conditions, including heart attacks, arrhythmias, and heart failure.",
+      "price": "30000",
+      "duration": "Varies depending on procedure",
+      "specializations": [
+        "Cardiology"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Neurology",
+      "description": "Diagnosis and treatment of disorders affecting the nervous system, such as stroke, epilepsy, and multiple sclerosis.",
+      "price": "25000",
+      "duration": "Varies depending on procedure",
+      "specializations": [
+        "Neurology"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Oncology",
+      "description": "Diagnosis and treatment of cancer, including chemotherapy, radiation therapy, and surgery.",
+      "price": "10000",
+      "duration": "Varies depending on treatment",
+      "specializations": [
+        "Oncology"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Emergency Room",
+      "description": "Immediate medical care for urgent and life-threatening conditions...",
+      "price": "50000",
+      "duration": "Varies depending on condition",
+      "specializations": [
+        "Emergency Medicine"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Physical Therapy",
+      "description": "Rehabilitation services to help patients regain strength, mobility, and function after injuries or illnesses.",
+      "price": "22000",
+      "duration": "Varies depending on treatment plan",
+      "specializations": [
+        "Physical Therapy"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Mental Health Services",
+      "description": "Therapy and counseling for mental health conditions, including depression, anxiety, and substance abuse.",
+      "price": "61000",
+      "duration": "45-60 minutes per session",
+      "specializations": [
+        "Psychology",
+        "Psychiatry",
+        "Social Work"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Diagnostic Imaging",
+      "description": "X-rays, CT scans, MRI scans, and other imaging tests to diagnose medical conditions.",
+      "price": "22000",
+      "duration": "Varies depending on test",
+      "specializations": [
+        "Radiology"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Laboratory Services",
+      "description": "Blood tests, urine tests, and other laboratory tests to diagnose and monitor medical conditions.",
+      "price": "8000",
+      "duration": "Varies depending on test",
+      "specializations": [
+        "Clinical Laboratory Science"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Cosmetic Surgery",
+      "description": "Surgical procedures to enhance appearance, such as liposuction, breast augmentation, and rhinoplasty.",
+      "price": "45000",
+      "duration": "Varies depending on procedure",
+      "specializations": [
+        "Plastic Surgery"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Home Health Care",
+      "description": "Skilled nursing care and therapy services provided in patients' homes.",
+      "price": "30000",
+      "duration": "Varies depending on patient's needs",
+      "specializations": [
+        "Nursing",
+        "Physical Therapy",
+        "Occupational Therapy"
+      ]
+    }
+  ]
+}
